@@ -28,15 +28,13 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **DevOps & Cloud (AWS)**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/LATEST/Compute/AmazonEC2.svg" alt="EC2" width="40"/>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/LATEST/Compute/AmazonECS.svg" alt="ECS" width="40"/>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/LATEST/NetworkingContentDelivery/AmazonVPC.svg" alt="VPC" width="40"/>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/LATEST/Storage/AmazonS3.svg" alt="S3" width="40"/>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/LATEST/SecurityIdentityCompliance/AWSIdentityAndAccessManagementIAM.svg" alt="IAM" width="40"/>
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/LATEST/DeveloperTools/AWSCodePipeline.svg" alt="CodePipeline" width="40"/>
-ite)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-4B612C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
